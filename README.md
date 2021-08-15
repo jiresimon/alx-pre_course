@@ -1,8 +1,8 @@
-#**_My First Repository_**
+# **_My First Repository_**
 
 Here's my first task as an ALX student in cohort_3
 
-##**_The Steps_**
+## **_The Steps_**
 
 The project on my computer was added to Github through my Gitbash command line.
 
